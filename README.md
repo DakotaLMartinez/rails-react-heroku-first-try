@@ -26,7 +26,7 @@ If you choose the second route, here's what you'll need to do to get started.
 
 Ruby Version: 2.6.5
 
-Rails Version: 6.0.2.2
+Rails Version: 6.0.3.1
 
 Node Version: 11.13.0
 
